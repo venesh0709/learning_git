@@ -2,3 +2,4 @@ this is to pull or merge from other than master branch
 testing to see the master push
 testing to see to push from nav after git merge master from nav branch
 4th line: this changes will be merged into nav branch and nav branch will edit the same file and then try to push the same file into its own branch.
+adding 6th line: this is being added from master
